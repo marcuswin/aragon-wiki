@@ -20,7 +20,7 @@ This document describes the plans to develop the Aragon dapp and the Aragon Netw
 
 ## **History & Vision**
 <center>
-<img src="../../images/development_plan/02.png" width="50%"><img src="../images/development_plan/03.png" width="50%">
+<img src="../../images/development_plan/02.png" width="50%"><img src="../../images/development_plan/03.png" width="50%">
 </center>
 
 Luis and Jorge have been dreaming of a decentralized world for years. They met via Twitter when they were only 15 years old, and immediately started building products together.
